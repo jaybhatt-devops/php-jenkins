@@ -1,5 +1,5 @@
 <?php
 // Show all information, defaults to INFO_ALL
 phpinfo();
-echo "Second File"
+echo "Last time changing"
 ?>
